@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(244, 203, 194);
+    color: rgb(0, 0, 0) ;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+.avatar {
+    width: 200px; 
+    border-radius: 50%;
+    box-shadow: rgb(237, 131, 131) 0px 0px 20px  ;
+}
+
+.all {
+    margin: auto;
+    max-width: 80%;
+}
+
+a:hover {
+    text-decoration: dotted;
+}
+
+#end {
+    height: 100px;
+}
+
+
